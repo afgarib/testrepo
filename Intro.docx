@@ -1,0 +1,4 @@
+WHAT - Severity of accidents
+(for) WHOM - the drivers 
+
+Data has been provided pertaining to accidents in Seattle. The goal of this project will be to develop different models to predict the severity of any given accident, in order to alert/inform drivers of any conditions that may be statistically signifficant in worsening the severity of there accidents while driving at any given point in time, in the bigger picture to reduce the severity and amount of accidents that occur in Seattle.
