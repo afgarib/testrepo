@@ -1,1 +1,3 @@
+The data provided has 18 columns and 194673 rows. Information has been provided regarding the accident report details, the geogrpahic details as well as current conditions. 
+
 The dependent variable in our case will be the severity code, which will be predicted with the help of the independent variables: Junction, weather conditions, road conditions and light conditions.
