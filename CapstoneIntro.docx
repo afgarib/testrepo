@@ -1,4 +1,5 @@
-WHAT - Severity of accidents
-(for) WHOM - the drivers 
+The dataset provided pertains to accident information in Seattle. This information is significant for the drivers essentially, as well as the government/police department for whom the safety of there citizens is of high priority. 
 
-Data has been provided pertaining to accidents in Seattle. The goal of this project will be to develop different models to predict the severity of any given accident, in order to alert/inform drivers of any conditions that may be statistically signifficant in worsening the severity of there accidents while driving at any given point in time, in the bigger picture to reduce the severity and amount of accidents that occur in Seattle.
+The idea of this project is to develop models with the intent of reducing the total amounts of accidents that occur and reduce the severity of those that do occur. 
+
+The target audience in this case are esssentially the drivers, to whom the information would be passed on to improve there safety conditions while driving in the areas covered in the dataset.
