@@ -3,6 +3,14 @@ The data provided has 18 columns and 194673 rows. Information has been provided 
 The link below provides details about the entire dataset as provided earlier. 
 https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Metadata.pdf 
 
-For the purpose of developing models with the intent of prediciting accident severity, our dependent variable will be the SEVERITYCODE which will be depedent upon the following variables: JUNCTION, WETAHER, ROADCOND and LIGHTCOND - as these are the variables provided that seem to be statistically significant to the severity of an accident within a dataset. 
+For the purpose of developing models with the intent of prediciting accident severity, our dependent variable will be the SEVERITYCODE which will be depedent upon the following variables: JUNCTIONTYPE, WETAHER, ROADCOND and LIGHTCOND - as these are the variables provided that seem to be statistically significant to the severity of an accident within a dataset. 
+
+Descriptions - 
+SEVERITYCODE could be one of 5 options which are described as: 0-unknown, 1-prop damage, 2-injury, 2b-serious injury, 3-fatality
+JUNCTIONTYPE - the type of junction the accident took place at, for example at an intersection or a mid block 
+WEATHER - weather at the time of incident e.g, overcast, raining or clear 
+LIGHTCOND - the condition of the light at the time of incident e.g, daylight, dark
+ROADCOND - the condition of the road at the time of incident e.g, Dry or Wet 
+
 
 These independent variables can be understood as our feature selection which will then be further processed and cleaned to be utilized in our model. If in case of any additions or subtractions to features, i will make updates in this file. 
